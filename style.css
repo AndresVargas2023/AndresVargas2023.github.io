@@ -1,0 +1,21 @@
+img {
+    border-radius: 70%;
+    max-width: 100px;
+    vertical-align: middle; }
+
+.header-text {
+    display: inline-block;
+}
+h1{
+    color: rgb(25, 25, 109);
+}
+
+h2 {
+    color: rgb(32, 32, 218);
+    margin-left: 10px;
+}
+
+h3 {
+    color: rgb(28, 117, 117);
+    font-style: italic;
+}
