@@ -79,18 +79,23 @@ button:active {
 }
 
 .resultado{
-    color: #0A81D1;
+    color: #4da2db;
     font-weight: bold;
-    font-size: 25px;
+    font-size: 15px;
     margin-bottom: 5px;
     display: none;
 }
 .imagen-circular {
-    width: 200px; /* Ajusta el tamaño según tus necesidades */
-    height: 150px; /* Ajusta el tamaño según tus necesidades */
-    clip-path: circle(40% at 50% 50%);
+    width: 100px; /* Ajusta el tamaño según tus necesidades */
+    height: 100px; /* Ajusta el tamaño según tus necesidades */
+    clip-path: circle(50% at 50% 50%);
+    margin-bottom: 0px;
+    margin-top: 0px;
+
 }
 .header-text{
     color: black;
     font-family: 'Times New Roman';
+    margin-bottom: 1px;
+    margin-top: 0px;
 }
